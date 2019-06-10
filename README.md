@@ -43,6 +43,7 @@ This is based on Slack's aubergine/maroon style. It's the original theme.
 * **Solarized Dark ([source](scss/themes/_solarized-dark.scss) - [build](css/variants/solarized-dark.css))** _by [@glostis](https://github.com/glostis)_
 * **Solarized Light ([source](scss/themes/_solarized-light.scss) - [build](css/variants/solarized-light.css))** _by [@glostis](https://github.com/glostis)_
 * **Tomorrow Dark (base16) ([repository](https://github.com/danarnold/slack-night-mode))** _by [@danarnold](https://github.com/danarnold)_
+* **One Monokai Darker ([source](scss/themes/_one-monokai-darker.scss) - [build](css/variants/one-monokai-darker.css))** _by [@brandonreid](https://github.com/brandonreid)_
 
 ### Extensions
 
